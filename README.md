@@ -192,4 +192,4 @@ MIT License - feel free to use this project for your portfolio!
 
 ### Developed with 💜 by Alabaster Developer
 
-Star this project if you found it useful! ⭐
+Star this project if you found it useful! ⭐""  
