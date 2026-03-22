@@ -1,6 +1,7 @@
 {
   "build": {
-    "buildPlan": "nixpacks"
+    "builder": "DOCKERFILE",
+    "dockerfile": "Dockerfile"
   },
   "deploy": {
     "numReplicas": 1
